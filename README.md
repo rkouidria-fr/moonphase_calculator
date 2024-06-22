@@ -22,5 +22,5 @@ Pour exécuter cette application, vous aurez besoin de Python installé sur votr
 pip install ephem
 
 Utilisation
-Pour lancer l'application, exécutez le fichier calculator.py :
+Pour lancer l'application, exécutez le fichier calculator.py
 
